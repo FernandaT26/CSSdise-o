@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&family=Vollkorn&display=swap');
+
+/* font-family: 'Kalam', cursive;
+font-family: 'Vollkorn', serif; */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: lavenderblush;
+}
+nav {
+    background-color: lavenderblush;
+    text-align: left;
+    font-size: 30px;
+}
+
+/*Bordes */
+.border1 {
+    border: 1px solid brown;
+    border-radius: 20px;
+}
+
+#subtituloRedes {
+    color: lavenderblush;
+}
+.logo {
+    width: 10rem;
+}
+
+h1 {
+    color: brown;
+    text-align: left;
+    font-size: 30px;
+    font-family:  'Kalam', cursive;
+}
+
+h2 {
+    color: brown;
+    text-align: left;
+    font-size: 30px;
+    font-family:  'Kalam', cursive;
+}
+
+.tituloVideo {
+    background-color: lavenderblush;
+}
+
+.videoExperiencia {
+    background-color: lavenderblush;
+}
+
+.tituloTercero {
+    text-align: left;
+    font-size: 30px;
+    color: brown;
+    font-family:  'Kalam', cursive
+}
+
+#subtituloRedes {
+    text-align: left;
+    font-size: 30px;
+    color: brown;
+    font-family:  'Kalam', cursive
+}
+
+li {
+    background-color: lavenderblush;
+    text-align: left;
+    font-size: 20px;
+}
+
+p {
+    text-transform: lowercase;
+}
+
+h4 {
+    color: brown;
+    text-align: left;
+    font-size: 70px;
+    font-family:  'Kalam', cursive;
+}
+
+#Ganado {
+    font-size: 20px;
+    text-align: left;
+}
+
+#Especificaciones {
+    font-size: 20px;
+    text-align: left;
+}
+
+#Garantia {
+    font-size: 20px;
+    text-align: left;
+}
+
+h5  {
+    color: brown;
+    text-align: left;
+    font-size: 30px;
+    font-family:  'Kalam', cursive;
+}
+
+.terceraImagen {
+    width: 1rem;
+}
+
+.cuartaImagen {
+    width: 1rem;
+}
+
+.quintaImagen {
+    width: 1rem;
+}
+
+.footerIndex {
+    background-color: lavenderblush;
+}
